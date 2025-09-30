@@ -1,0 +1,20 @@
+{
+  "name": "lab1-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^6.2.0",
+    "mocha": "^11.7.3"
+  },
+  "dependencies": {
+    "mathjs": "^14.8.1",
+    "mtrx": "^0.1.6"
+  }
+}
